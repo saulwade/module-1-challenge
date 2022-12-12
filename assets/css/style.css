@@ -57,7 +57,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
+} /* This is adds the style for the biggest image of the website */
 
 .float-left {
     float: left;
@@ -73,7 +73,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
+} /* This is adds the style for the main content of the website */
 
 .benefits {
     margin-right: 20px;
@@ -84,7 +84,7 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
+} /* This is adds the style for the right part of the website */
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -197,4 +197,4 @@ p {
 
 .footer h2 {
     font-size: 20px;
-}
+} /* This specifically styles the text with the emoji in the footer */
